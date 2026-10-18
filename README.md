@@ -16,11 +16,12 @@ Autonomous mission control for coding work: you describe a change in chat, a tea
 
 - Code: github.com/Mauludinegi/CosmoOrchestrator
 
-## By the numbers
+## GitHub Stats
 
-My public repos by primary language - all 43 of them, learning projects included. The PHP and C++ ones are older learning projects from 2022-2023; the Java and Nuxt work above is what I build now. One fork has no language detected. Counts from the GitHub API, 18 Oct 2026.
+![Egi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mauludinegi&show_icons=true&include_all_commits=true&theme=dark&hide_rank=true)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mauludinegi&layout=compact&langs_count=8&theme=dark)
 
-![Public repos by primary language](language-stats.png)
+Cards by github-readme-stats, counting public GitHub data only. Language shares are by code size, not proficiency, so older learning projects still count. The cards update automatically.
 
 ## Elsewhere
 
