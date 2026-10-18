@@ -21,8 +21,6 @@ Autonomous mission control for coding work: you describe a change in chat, a tea
 ![Egi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mauludinegi&show_icons=true&include_all_commits=true&theme=dark&hide_rank=true)
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mauludinegi&layout=compact&langs_count=8&theme=dark)
 
-Cards by github-readme-stats, counting public GitHub data only. Language shares are by code size, not proficiency, so older learning projects still count. The cards update automatically.
-
 ## Elsewhere
 
 - Portfolio: solutionsgie.online
